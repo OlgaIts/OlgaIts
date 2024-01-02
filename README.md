@@ -9,14 +9,14 @@
 
 <div>
   <a href="http://www.github.com/olgaits">
-    <img width="49%" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=olgaits&stroke=6366f1&background=312e81&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&border_color=ffffff" />
+    <img width="49%" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=olgaits&stroke=F400F0&background=518fae&ring=F400F0&fire=F400F0&currStreakNum=ffffff&currStreakLabel=F400F0&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&border_color=ffffff" />
   </a>
     <a href="https://github.com/olgaits" align="left">
-    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olgaits&layout=compact&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=312e81&border_color=ffffff&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olgaits&layout=compact&title_color=F400F0&text_color=ffffff&icon_color=F400F0&bg_color=518fae&border_color=ffffff&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
   </a>
   
   <a href="http://www.github.com/olgaits">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=olgaits&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=312e81&border_color=ffffff&show_icons=true" alt="stats" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=olgaits&show_icons=true&hide=&count_private=true&title_color=F400F0&text_color=ffffff&icon_color=F400F0&bg_color=518fae&border_color=ffffff&show_icons=true" alt="stats" />
   </a>
 
 
