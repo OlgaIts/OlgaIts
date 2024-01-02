@@ -9,11 +9,11 @@
 
 <div>
   <a href="http://www.github.com/olgaits">
-    <img width="49%" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=olgaits&stroke=6366f1&background=312e81&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&border_color=ffffff" />
+    <img width="49%" height="20%" src="https://github-readme-streak-stats.herokuapp.com/?user=olgaits&stroke=6366f1&background=312e81&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&border_color=ffffff" />
   </a>
   
   <a href="http://www.github.com/olgaits">
-    <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=olgaits&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=312e81&border_color=ffffff&show_icons=true" alt="stats" />
+    <img width="49%" height="20%" src="https://github-readme-stats.vercel.app/api?username=olgaits&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=312e81&border_color=ffffff&show_icons=true" alt="stats" />
   </a>
 
   <a href="https://github.com/olgaits" align="left">
