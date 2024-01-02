@@ -12,7 +12,7 @@
     <img width="49%" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=olgaits&stroke=6366f1&background=312e81&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&border_color=ffffff" />
   </a>
     <a href="https://github.com/olgaits" align="left">
-    <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olgaits&layout=compact&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=312e81&border_color=ffffff&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olgaits&layout=compact&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=312e81&border_color=ffffff&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
   </a>
   
   <a href="http://www.github.com/olgaits">
