@@ -18,8 +18,6 @@
 <a href="http://www.github.com/olgaits">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=olgaits&show_icons=true&hide=&count_private=true&title_color=FF00EE&text_color=1cffff&icon_color=FF00EE&bg_color=510252&border_color=1cffff&show_icons=true" alt="stats" />
 </a>
-
-
 </div>
 
 ---
