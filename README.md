@@ -22,6 +22,3 @@
 
 ---
 
-### Codewars
-
-![codewars](https://www.codewars.com/users/OlgaIts/badges/large)
